@@ -69,3 +69,24 @@ Após o repasse dos códigos, é possível entrarmos em contato para agendarmos 
 
 
 Boa sorte! 🍀
+
+
+
+
+produto venda
+Codigo
+Nome
+Valor
+Quantidade
+
+insumos estoque
+Codigo
+Nome
+Quantidade
+
+
+ProdutoxInsumo
+CodigoProduto
+CodigoInsumo
+QuantidadeInsumo
+
